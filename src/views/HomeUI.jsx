@@ -21,7 +21,7 @@ function HomeUI() {
           </Typography>
           <Button component={Link} to='/login' variant='contained' 
                   sx={{mb:'30px', display:'block', mx:'auto',
-                       width:'200px', backgroundColor:'#fe00c8', textAlign:'center'}}>
+                       width:'200px', backgroundColor:'#049156', textAlign:'center'}}>
             ไปหน้า Login
           </Button>
         </Box>
